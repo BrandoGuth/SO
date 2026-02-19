@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Guía de Instalación: Fedora Workstation 43</h1>
-  <p><i>Un manual detallado para el despliegue del sistema operativo más innovador de la comunidad Linux.</i></p>
+  <p><i>Un manual detallado para el despliegue del sistema operativo Linux en su version Fedora.</i></p>
 </div>
 
 ---
